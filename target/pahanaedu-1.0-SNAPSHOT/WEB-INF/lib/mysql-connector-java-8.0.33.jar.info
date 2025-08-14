@@ -1,0 +1,17 @@
+<!-- 
+This file indicates where to place the MySQL Connector/J JAR file.
+
+Download MySQL Connector/J from:
+https://dev.mysql.com/downloads/connector/j/
+
+Place the downloaded JAR file (mysql-connector-java-8.0.33.jar or similar) 
+in this directory: App/WEB-INF/lib/
+
+The JAR file is required for the application to connect to MySQL database.
+
+Alternative download locations:
+- Maven Central: https://mvnrepository.com/artifact/mysql/mysql-connector-java
+- Direct download: https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-8.0.33.tar.gz
+
+After downloading, extract and copy the .jar file to App/WEB-INF/lib/
+-->
